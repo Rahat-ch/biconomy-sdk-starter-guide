@@ -1,5 +1,5 @@
 
-# Biconomy Hackathon Starter Guide
+# Biconomy SDK Starter Guide
 
 This resource has been implemented to get you started hacking right away using the Biconomy SDK in a hackathon setting. This is an ever changing repository with quick start guides and configurations ready for you to use.
 
