@@ -16,6 +16,8 @@ Check out the Starter templates below that will allow you to get started buildin
 
 [Social Auth + Gasless NFT + Batch Mint with Vite](https://github.com/Rahat-ch/biconomy-sdk-nft-starter)
 
+[Social Auth + Gasless Batched Mint + Batched Mint and Transfer with Vite and React](https://github.com/vanshika-srivastava/gasless-batched/)
+
 More coming soon!
 
 ## Configuration Files
